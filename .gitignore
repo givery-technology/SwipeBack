@@ -1,7 +1,6 @@
 .DS_Store
 
 **/xcuserdata
-**/xcshareddata
 *.pbxuser
 *.mode1v3
 
