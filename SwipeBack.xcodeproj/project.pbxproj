@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D3151EAB1C8469BC00207CA7 /* SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA61C8469BC00207CA7 /* SwipeBack.h */; };
-		D3151EAC1C8469BC00207CA7 /* UINavigationController+SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA71C8469BC00207CA7 /* UINavigationController+SwipeBack.h */; };
+		D3151EAB1C8469BC00207CA7 /* SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA61C8469BC00207CA7 /* SwipeBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3151EAC1C8469BC00207CA7 /* UINavigationController+SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA71C8469BC00207CA7 /* UINavigationController+SwipeBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D3151EAD1C8469BC00207CA7 /* UINavigationController+SwipeBack.m in Sources */ = {isa = PBXBuildFile; fileRef = D3151EA81C8469BC00207CA7 /* UINavigationController+SwipeBack.m */; };
-		D3151EAE1C8469BC00207CA7 /* UIViewController+SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA91C8469BC00207CA7 /* UIViewController+SwipeBack.h */; };
+		D3151EAE1C8469BC00207CA7 /* UIViewController+SwipeBack.h in Headers */ = {isa = PBXBuildFile; fileRef = D3151EA91C8469BC00207CA7 /* UIViewController+SwipeBack.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D3151EAF1C8469BC00207CA7 /* UIViewController+SwipeBack.m in Sources */ = {isa = PBXBuildFile; fileRef = D3151EAA1C8469BC00207CA7 /* UIViewController+SwipeBack.m */; };
 /* End PBXBuildFile section */
 
